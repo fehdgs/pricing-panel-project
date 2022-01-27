@@ -1,3 +1,3 @@
 # pricing-panel-project 
 
-Simple project using HTML and CSS
+Simple responsive project using HTML and CSS
